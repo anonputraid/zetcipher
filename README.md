@@ -11,6 +11,7 @@
 
 ZetCipher is an **open-source security framework** that combines multiple cryptographic techniques to create self-contained, secure, and context-bound tokens. It challenges the conventional belief that numerical cryptography is inherently weak introducing a new paradigm where **security is derived from the owner’s unique thought process**.
 
+👉 **Try it online:** [https://zetcipher.getbitlab.com](https://zetcipher.getbitlab.com)
 ---
 
 ## 🧭 About ZetCipher
